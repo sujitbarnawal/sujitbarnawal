@@ -1,3 +1,5 @@
+<img src="https://github.com/sujitbarnawal/sujitbarnawal/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png" >
+
 <h1 align="center">Hi 👋, I'm Sujit Barnawal</h1>
 <h3 align="center">A web developer from Nepal</h3>
 
