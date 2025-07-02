@@ -26,4 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitbarnawal&show_icons=true&locale=en" alt="sujitbarnawal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitbarnawal" alt="sujitbarnawal" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sujitbarnawal" alt="sujitbarnawal" />
+</p>
+
